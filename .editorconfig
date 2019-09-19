@@ -12,29 +12,12 @@ charset = utf-8
 [*.py]
 max_line_length = 119
 
-# Use 2 spaces for the HTML files
-[*.js]
-indent_size = 2
-
-# Use 2 spaces for the HTML files
-[*.html]
-indent_size = 2
-
-# Use 2 spaces for the CSS files
-[*.css]
-indent_size = 2
-
-# Use 2 spaces for the YML files
-[*.yml]
-indent_size = 2
-
-# Use 2 spaces for the VUE files
-[*.vue]
+# Use 2 spaces for the files
+[*.{js, html, css, yml, vue, json}]
 indent_size = 2
 
 # The JSON files contain newlines inconsistently
 [*.json]
-indent_size = 2
 insert_final_newline = ignore
 
 [**/admin/js/vendor/**]
