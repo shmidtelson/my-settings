@@ -1,3 +1,3 @@
-# Настройка Windows 
-* Настройка темной темы
-* Настройка мыши
+# Set-up Windows 
+* Setup dark theme
+* Setup mouse speed
